@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chatroom-bio/chatroom-bio.iml" filepath="$PROJECT_DIR$/chatroom-bio/chatroom-bio.iml" />
       <module fileurl="file://$PROJECT_DIR$/networkProgramming.iml" filepath="$PROJECT_DIR$/networkProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
     </modules>
