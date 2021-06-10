@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chatroom-aio/chatroom-aio.iml" filepath="$PROJECT_DIR$/chatroom-aio/chatroom-aio.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatroom-bio/chatroom-bio.iml" filepath="$PROJECT_DIR$/chatroom-bio/chatroom-bio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatroom-netty/chatroom-netty.iml" filepath="$PROJECT_DIR$/chatroom-netty/chatroom-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatroot-nio/chatroot-nio.iml" filepath="$PROJECT_DIR$/chatroot-nio/chatroot-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/networkProgramming.iml" filepath="$PROJECT_DIR$/networkProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
